@@ -38,7 +38,6 @@ namespace Revisao
                         {
                             if (!string.IsNullOrEmpty(a.Nome))
                             {
-                                
                                 Console.WriteLine($"ALUNO: {a.Nome} - NOTA: {a.Nota}");
                             }
                         }
